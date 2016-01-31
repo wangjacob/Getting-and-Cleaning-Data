@@ -18,9 +18,11 @@ The following identifiers have been changed or added:
 * `subject ID` - The ID represents the train and test subjects in `subject_train.txt` and `subject_test.txt`.
 * `activity ID` - The ID corresponds to the activitiy types in `activity_labels.txt`
 * `activityType` - Descriptive activity names corresponding to `activity ID`
+ 
+ 
 ## Measurements
-The following measurement variables from `features.txt` have been reformated:
-The columns on the left and right represent the original and clean-up variable names, respectively.
+The following measurement variables from `features.txt` have been reformated(The columns on the left and right represent the original and clean-up variable names, respectively.):
+
 * `tBodyAcc-mean()-X` `timeBodyAccMean-X`
 * `tBodyAcc-mean()-Y` `timeBodyAccMean-Y`
 * `tBodyAcc-mean()-Z` `timeBodyAccMean-Z`
